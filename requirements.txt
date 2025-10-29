@@ -1,5 +1,5 @@
-pandas==2.2.2
-numpy==1.26.4
+pandas==2.3.3
+numpy==2.2.6
 matplotlib==3.10.7
-statsmodels==0.14.2
-streamlit==1.38.0
+statsmodels==0.14.5
+streamlit==1.50.0
