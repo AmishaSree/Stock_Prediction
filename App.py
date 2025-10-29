@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 import streamlit as st
 
 # --- CONFIG ---
-FOLDER_PATH = r"C:\Users\asus\Documents\STOCKS\all_companies_csv"
+FOLDER_PATH = "all_companies_csv"
 
 st.set_page_config(page_title="Stock Price Predictor", layout="wide")
 
